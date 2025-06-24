@@ -32,11 +32,11 @@
 
 ![Main Menu](https://www.wesnoth.org/images/sshots/wesnoth-1.18.0-1.jpg)  
 
-![Campaign Selection](https://www.wesnoth.org/images/sshots/wesnoth-1.18.0-2.jpg)  
+![Campaign Selection](https://www.wesnoth.org/images/sshots/wesnoth-1.18.0-5.jpg)  
 
 ![Gameplay](https://www.wesnoth.org/images/sshots/wesnoth-1.18.0-3.jpg)  
 
-![Editor Mode](https://www.wesnoth.org/images/sshots/wesnoth-1.18.0-4.jpg)
+![Editor Mode](https://www.wesnoth.org/images/sshots/wesnoth-1.18.0-9.jpg)
 
 ---
 
